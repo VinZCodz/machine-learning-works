@@ -1,6 +1,5 @@
 # Uni Variate Linear Regression:
-Let's Get This Prediction Thing Started! 
-Notebook captures my intutions while learning the model and bringing them to implementation.
+Let's Get This Prediction Thing Started! Notebook captures my intutions while learning the model and bringing them to implementation.
 
 ---
 **Contents:**
