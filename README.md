@@ -10,6 +10,10 @@ Let's Get This Prediction Thing Started! Notebook captures my intuitions while l
 <img width="1016" height="325" alt="image" src="https://github.com/user-attachments/assets/2f1bb730-b9fd-4b4f-81d8-e0c142909ff9" />
 <img width="990" height="328" alt="image" src="https://github.com/user-attachments/assets/379e0931-0cb3-4f70-bbdc-aae41d505a3f" />
 
-  
+### Polynomial intuitions
+<img width="577" height="464" alt="image" src="https://github.com/user-attachments/assets/df13a8d2-8fc7-4472-b2d8-7ff1029ac63a" />
+<img width="577" height="464" alt="image" src="https://github.com/user-attachments/assets/1062e26f-a3f8-4b1f-835d-773d6772232b" />
+
+
  
 
