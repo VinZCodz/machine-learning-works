@@ -1,4 +1,5 @@
 # Multi Variate Linear Regression
+Multivariable linear regression is a technique that models the relationship between one dependent variable (y) and two or more independent variables(x0, .. xn-1) by fitting a linear equation to the data. The goal is to understand how multiple factors influence an outcome and to predict that outcome using these factors. The model aims to find the best-fit line by determining coefficients (slopes and intercepts) for the independent variables. 
 ## Intuition
 <img width="1011" height="298" alt="image" src="https://github.com/user-attachments/assets/8ffdccd8-1e11-4ee3-913d-5ab4213e9003" />
 <img width="1016" height="325" alt="image" src="https://github.com/user-attachments/assets/9e21914d-09cc-433e-a6ae-8f1af6956ab9" />
